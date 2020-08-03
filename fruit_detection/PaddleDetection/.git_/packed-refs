@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+315ada6550d30843510493518b6cba96a1a2d5f3 refs/remotes/origin/add_kitti_proto
+ce71cdc2b31c9d1a49b15c70568b9fb1de2e5d43 refs/remotes/origin/dygraph
+64a2a78ed2fc12ad3d929509d2ae6e81c6d881a3 refs/remotes/origin/master
+e5af23e7f1b64c9f8e6a9ddf3088d0c74595a13b refs/remotes/origin/release/0.1
+734744a4a08a10fe04fd4ea13f6cba90e8c9f018 refs/remotes/origin/release/0.2
+499dafa8e8f5f8eeb149f2fb3a3ea0e1f747ca13 refs/remotes/origin/release/0.3
+99065a7cfef3a632f800ec5805458535d99a1353 refs/tags/v0.1.0
+^50381edae1df4165281d00a56c701d349cbea19f

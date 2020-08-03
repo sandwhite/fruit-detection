@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/PaddlePaddle/PaddleDetection
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "release/0.3"]
+	remote = origin
+	merge = refs/heads/release/0.3
